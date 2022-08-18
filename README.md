@@ -1,2 +1,2 @@
 # MAB
-Different Multi-armed bandits (MABs)
+Different Multi-armed bandits (MABs) algorithms 
